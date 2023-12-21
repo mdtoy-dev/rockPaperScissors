@@ -1,35 +1,39 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 20px;
-  }
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
   
-  #game-container {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 20px;
-  }
+img {
+  width: 50px;
+}
+
+#game-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
   
-  #user-choice, #computer-choice {
-    border: 2px solid #333;
-    padding: 10px;
-    margin: 10px;
-  }
+#user-choice, #computer-choice {
+  border: 2px solid #333;
+  padding: 10px;
+  margin: 10px;
+}
   
-  #result {
-    font-size: 18px;
-    margin-top: 20px;
-  }
+#result {
+  font-size: 18px;
+  margin-top: 20px;
+}
   
-  #score {
-    font-size: 16px;
-    margin-top: 10px;
-  }
+#score {
+  font-size: 16px;
+  margin-top: 10px;
+}
   
-  button {
-    font-size: 16px;
-    padding: 10px;
-    margin-top: 20px;
-    cursor: pointer;
-  }
+button {
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}
   
