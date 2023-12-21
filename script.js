@@ -3,6 +3,8 @@ var userWins = 0;
 var ties = 0;
 var losses = 0;
 
+// test comment from james stott
+
 function resetCounts() {
   userWins = 0;
   ties = 0;
